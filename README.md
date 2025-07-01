@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Scholar | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=00E5FF&lines=Hey!+I'm+Nawfal+Arsath;AI+%7C+DS+Scholar+%7C+UI%2FUX+Lover;Building+Smart+Apps+with+Deep+Learning;I+Design.+I+Code.+I+Innovate."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=00E5FF&lines=Hey!+I'm+Nawfal+Arsath;AI+%7C+DS+Scholar+%7C+UI%2FUX+Lover; Building+Smart+Apps+with+Deep+Learning;I+Design.+I+Code.+I+Innovate."/>
 </p>
 
 ---
@@ -57,14 +57,6 @@
 
 ---
 
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nawfal-arsath&theme=dracula&area=true&hide_border=true"/>
-</p>
-
----
-
 ### 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nawfal-arsath)
@@ -74,7 +66,7 @@
 ---
 
 <p align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nawfalarsath.nawfalarsath" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfalarsath" alt="visitor badge"/>
 </p>
 
 <p align="center">
