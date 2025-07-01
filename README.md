@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://nawfal.framer.website" target="_blank">
-    <img src="https://github.com/nawfal-arsath/nawfal-arsath/gif.gif" alt="Portfolio Video Preview" width="100%" style="border-radius: 10px;"/>
+    <img src="https://raw.githubusercontent.com/nawfal-arsath/nawfal-arsath/main/gif.gif" alt="Preview" width="100%" />
   </a>
 </p>
 
