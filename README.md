@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Scholar | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=00E5FF&lines=Hey!+I'm+Nawfal+Arsath;AI+%7C+DS+Scholar+%7C+UI%2FUX+Lover;Building+Smart+Apps+with+Deep+Learning;I+Design.+I+Code.+I+Innovate."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=00E5FF&lines=Hey!+I'm+Nawfal+Arsath;AI+%7C+DS+Scholar+%7C+UI%2FUX+Designer;Building+Smart+Apps+with+Deep+Learning;I+Design.+I+Code.+I+Innovate."/>
 </p>
 
 ---
@@ -69,6 +69,3 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfalarsath" alt="visitor badge"/>
 </p>
 
-<p align="center">
-  👽 “Nwfl” 
-</p>
