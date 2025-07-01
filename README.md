@@ -1,6 +1,3 @@
-<h1 align="center">🚀 Nawfal Arsath</h1>
-<h3 align="center">AI & DS Scholar • UI/UX Designer • Flutter Developer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=0AEFFF&width=480&lines=Building+Smart+Apps+with+Deep+Learning;Designing+future+with+AI+%26+UX;Welcome+to+my+3D+Interactive+Space+🌌"/>
 </p>
@@ -10,7 +7,7 @@
 ### 🎬 Dive Into My World of AI + Design
 
 <p align="center">
-  <a href="https://nawfalarsath.framer.website" target="_blank">
+  <a href="https://nawfal.framer.website" target="_blank">
     <img src="https://github.com/nawfal-arsath/nawfal-arsath/assets/your-image-id/video-cover.gif" alt="Portfolio Video Preview" width="100%" style="border-radius: 10px;"/>
   </a>
 </p>
@@ -67,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfalarsath" alt="visitor badge"/>
+  <img src="![visitors](https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfal-arsath&left_color=green&right_color=red)" alt="visitor badge"/>
 </p>
 
 <p align="center"><i>“Where AI meets aesthetics.”</i></p>
