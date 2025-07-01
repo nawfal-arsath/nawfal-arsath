@@ -1,67 +1,70 @@
 <h1 align="center">Hey 👋, I'm Nawfal Arsath</h1>
-<h3 align="center">AI & Data Science Scholar | UI/UX Designer</h3>
+<h3 align="center">AI & Data Science Scholar • UI/UX Designer • Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=00E5FF&lines=Hey!+I'm+Nawfal+Arsath;AI+%7C+DS+Scholar+%7C+UI%2FUX+Designer;Building+Smart+Apps+with+Deep+Learning;I+Design.+I+Code.+I+Innovate."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&center=true&vCenter=true&color=00E5FF&width=480&lines=AI+%7C+DS+Scholar+%7C+UI%2FUX+Designer;I+Design.+I+Code.+I+Innovate.;Building+Smart+Apps+with+Deep+Learning;Exploring+the+intersection+of+AI+%26+UX"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Final Year AI & Data Science Student (2022–2026)
-- 🧪 Projects:
-  - Deepfake Detection using ViT + StyleGAN2
-  - Infant Cry Classification (`Don't Cry` App)
-  - Turf Booking App (`Grassthetic`)
-  - Smile Detection
-  - Youtube Video Translator
-- ✉️ Reach me: nawfalarsath@gmail.com
+- 🎓 Final Year **AI & Data Science** Student (2022–2026)
+- 🛠️ Passionate about blending design and intelligence to build human-centered applications
+- 🚀 Projects:
+  - 🔍 **Deepfake Detection** using ViT + StyleGAN2  
+  - 👶 **Infant Cry Analysis** – Don't Cry App (Flutter + TFLite)  
+  - 🏟️ **Grassthetic** – Turf Booking App  
+  - 😄 Smile Detection System  
+  - 🎙️ YouTube Video Translator (Own LSTM + GTTS + Streamlit)
+- ✉️ Contact: [nawfalarsath@gmail.com](mailto:nawfalarsath@gmail.com)
 
 ---
 
-### 🚀 Tech Stack
+### 🧰 Tech Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,flutter,figma,git,github,html,css,js,vscode" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔍 [**DeepFake Detector**](https://github.com/nawfal-arsath/deepfake-detection)  
-  `ViT` + `StyleGAN2` based smart fake detection using audio & video fusion.
-
-- 👶 [**Don't Cry**](https://github.com/nawfal-arsath/Infant-cry-analysis)  
-  Infant cry analysis using `TFLite`, `Flutter`, and real-time sound classification.
-
-- 🎥 [**Youtube video Translator**](https://github.com/nawfal-arsath/youtube-video-translator-with-voice-over)  
-  'Streamlit' +'gtts' + 'Own Tranined Lstm model'.
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [**DeepFake Detector**](https://github.com/nawfal-arsath/deepfake-detection) | `ViT`, `StyleGAN2`, `Audio` | Smart audio-visual fake detection system |
+| [**Don't Cry**](https://github.com/nawfal-arsath/Infant-cry-analysis) | `Flutter`, `TFLite` | Real-time infant cry classification mobile app |
+| [**YouTube Video Translator**](https://github.com/nawfal-arsath/youtube-video-translator-with-voice-over) | `Streamlit`, `GTTS`, `LSTM` | Subtitle + voice translator for YouTube videos |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawfal-arsath&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawfal-arsath&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nawfal-arsath&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawfal-arsath&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawfal-arsath&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawfal-arsath&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nawfal-arsath)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/arxath.m)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawfalarsath@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/nawfal-arsath">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/arxath.m">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:nawfalarsath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -69,3 +72,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfalarsath" alt="visitor badge"/>
 </p>
 
+<p align="center">
+   *Nwfl.* 👽
+</p>
