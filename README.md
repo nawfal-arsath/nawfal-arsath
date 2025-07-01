@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> 🎥 Visit the full experience 👉 **[nawfalarsath.framer.website](https://nawfalarsath.framer.website)**  
+> 🎥 Visit the full experience 👉 **[nawfal.framer.website](https://nawfal.framer.website)**  
 > *(Built with Framer, Deep Learning concepts, and interactive design)*
 
 ---
@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="![visitors](https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfal-arsath&left_color=green&right_color=red)" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nawfal-arsath.nawfal-arsath&left_color=green&right_color=red" alt="visitor badge"/>
 </p>
 
 <p align="center"><i>“Where AI meets aesthetics.”</i></p>
