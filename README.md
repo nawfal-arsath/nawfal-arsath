@@ -47,12 +47,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawfalarsath&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawfalarsath&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nawfal-arsath&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nawfal-arsath&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawfalarsath&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawfal-arsath&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nawfalarsath&theme=dracula&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nawfal-arsath&theme=dracula&area=true&hide_border=true"/>
 </p>
 
 ---
